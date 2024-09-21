@@ -1,5 +1,5 @@
 {
-  "name": "svelte-wc",
+  "name": "svelte-ui-wc",
   "description": "Svelte component library for web components",
   "version": "0.0.1",
   "type": "module",
