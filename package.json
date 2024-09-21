@@ -1,8 +1,17 @@
 {
   "name": "svelte-wc",
-  "private": true,
+  "description": "Svelte component library for web components",
   "version": "0.0.1",
   "type": "module",
+  "keywords": [
+    "storybook",
+    "svelte",
+    "webcomponents",
+    "component library"
+  ],
+  "author": "Achanta Krishna Sameer <achanta3215@gmail.com>",
+  "license": "MIT",
+  "packageManager": "pnpm@9.9.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -31,5 +40,13 @@
     "tslib": "^2.6.3",
     "typescript": "^5.5.3",
     "vite": "^5.4.1"
+  },
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/AchantaKrishnaSameer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achanta3215/svelte-wc.git"
   }
 }
