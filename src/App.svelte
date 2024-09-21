@@ -1,7 +1,7 @@
 <script lang="ts">
   import svelteLogo from './assets/svelte.svg'
   import viteLogo from '/vite.svg'
-  import Counter from './lib/Counter.svelte'
+  import Avatar from './lib/Avatar.svelte'
 </script>
 
 <main>
@@ -16,7 +16,7 @@
   <h1>Vite + Svelte</h1>
 
   <div class="card">
-    <Counter />
+    <Avatar name="SvelteKit" url="https://github.com/sveltejs/kit" />
   </div>
 
   <p>
